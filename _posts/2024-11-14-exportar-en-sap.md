@@ -56,11 +56,11 @@ Para otorgar al usuario el permiso de exportación, el administrador de SAP debe
 **3. Accede a la actualización de los datos de autorización**: En el apartado de autorizaciones, accede al “Modo de experto para generar perfiles” actualizando la última versión disponible.
 
 <p class="image centered">
-  <img src="/assets/images/extraer_en_sap/3.png" alt="Image 3">
+  <img src="/assets/images/extraer_en_sap/4.png" alt="Image 4">
 </p>
 
 <p class="image centered">
-  <img src="/assets/images/extraer_en_sap/4.png" alt="Image 4">
+  <img src="/assets/images/extraer_en_sap/3.png" alt="Image 3">
 </p>
 
 **4. Agregar el objeto S_GUI**: Agrega el objeto S_GUI si aún no está presente en el rol del usuario. Asegúrate de asignarle la actividad 61 (Exportar) para habilitar la opción de exportación.
